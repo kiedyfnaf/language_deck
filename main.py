@@ -7,7 +7,7 @@ from collections import defaultdict
 from datetime import datetime, timedelta, timezone
 
 # ================= CONFIGURATION =================
-APKG_PATH = "Japanese grammar.apkg"
+APKG_PATH = "collection.apkg"
 README_PATH = "README.md"
 TIMEZONE_OFFSET_HOURS = 1
 # =================================================
