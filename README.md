@@ -2,41 +2,41 @@
 
 <!-- ANKI_STATS_START -->
 ## Anki Language Learning Stats
-*Last updated: 2026-11-27 01:27 (UTC+1)*
+*Last updated: 2026-11-27 01:34 (UTC+1)*
 
 ### Overview
 | Metric | Value |
 | :--- | :--- |
 | **Languages / Tags** | 27 |
-| **Total Flashcards** | 696 |
-| **Total Reviews Completed** | 233 |
-| **Total Time Studied** | 2h 22m |
-| **Daily Average (Active Days)** | 17m |
-| **Daily Average (Last 30 Days)** | 4m |
-| **Active Study Days** | 8 days |
-| **Current Streak** | 0 days |
+| **Total Flashcards** | 695 |
+| **Total Reviews Completed** | 275 |
+| **Total Time Studied** | 2h 54m |
+| **Daily Average (Active Days)** | 19m |
+| **Daily Average (Last 30 Days)** | 5m |
+| **Active Study Days** | 9 days |
+| **Current Streak** | 1 days |
 | **Longest Streak** | 8 days |
-| **Retention Rate** | 87.5% |
+| **Retention Rate** | 88.9% |
 
 ### Breakdown by Language / Tag
 | Language / Tag | Total Cards | Mature | Learning | New | Time Spent |
 | :--- | ---: | ---: | ---: | ---: | ---: |
-| **Japanese** | 200 | 0 | 18 | 182 | 27m |
-| **Spanish** | 58 | 0 | 6 | 52 | 7m |
-| **Indonesian** | 50 | 0 | 4 | 46 | 14m |
+| **Japanese** | 200 | 1 | 19 | 180 | 35m |
+| **Spanish** | 58 | 1 | 6 | 51 | 11m |
+| **Indonesian** | 50 | 0 | 5 | 45 | 16m |
 | **French** | 43 | 0 | 0 | 43 | 0m |
-| **Korean** | 41 | 0 | 3 | 38 | 8m |
-| **Italian** | 37 | 0 | 1 | 36 | 6m |
-| **Dutch** | 37 | 0 | 5 | 32 | 16m |
-| **Chinese** | 36 | 0 | 4 | 32 | 13m |
+| **Korean** | 40 | 0 | 3 | 37 | 13m |
+| **Italian** | 37 | 0 | 2 | 35 | 8m |
+| **Dutch** | 37 | 0 | 6 | 31 | 20m |
+| **Chinese** | 36 | 0 | 5 | 31 | 14m |
 | **Czech** | 33 | 0 | 0 | 33 | 0m |
-| **Vietnamese** | 31 | 0 | 3 | 28 | 7m |
-| **Russian** | 24 | 0 | 4 | 20 | 10m |
+| **Vietnamese** | 31 | 0 | 3 | 28 | 8m |
+| **Russian** | 24 | 0 | 4 | 20 | 13m |
 | **Norwegian** | 19 | 0 | 0 | 19 | 0m |
 | **Latin** | 18 | 0 | 3 | 15 | 11m |
-| **German** | 16 | 0 | 2 | 14 | 6m |
-| **Greek** | 14 | 0 | 2 | 12 | 8m |
-| **Turkish** | 12 | 0 | 1 | 11 | 0m |
+| **German** | 16 | 0 | 2 | 14 | 7m |
+| **Greek** | 14 | 1 | 1 | 12 | 8m |
+| **Turkish** | 12 | 0 | 2 | 10 | 1m |
 | **Romanian** | 9 | 0 | 1 | 8 | 2m |
 | **Bengali_Bangladesh** | 8 | 0 | 0 | 8 | 0m |
 | **Lao** | 3 | 0 | 0 | 3 | 0m |
@@ -63,7 +63,7 @@ Nov 22 | █░░░░░░░░░░░░░░░░░░░░░░�
 Nov 23 | ████████████░░░░░░░░░░░░░ |  18 min (23 cards)
 Nov 24 | ████████░░░░░░░░░░░░░░░░░ |  12 min (16 cards)
 Nov 25 | ░░░░░░░░░░░░░░░░░░░░░░░░░ |   0 min (0 cards)
-Nov 26 | ░░░░░░░░░░░░░░░░░░░░░░░░░ |   0 min (0 cards)
+Nov 26 | █████████████████████░░░░ |  32 min (42 cards)
 Nov 27 | ░░░░░░░░░░░░░░░░░░░░░░░░░ |   0 min (0 cards)
 ```
 <!-- ANKI_STATS_END -->
